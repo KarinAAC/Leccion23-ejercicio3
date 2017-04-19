@@ -1,0 +1,39 @@
+#divGeneral{
+  width: 100%;
+  height: 627px;
+  background-color: white;
+  position: relative;
+}
+
+.estilo-div1{
+  width: 65%;
+  height: 350px;
+  background-color: green;
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 120px;
+}
+
+.estilo-div2{
+  width: 95%;
+  height: 304px;
+  border:  solid 3px white;
+  margin-left: 17px;
+  margin-top: 19px;
+}
+
+.estilo-div3{
+  width: 5%;
+  height: 30px;
+  border:  solid 3px white;
+
+  margin-top: 19px;
+}
+
+.estilo-div4{
+  width: 5%;
+  height: 30px;
+  border:  solid 3px white;
+  margin-left: 737px;
+  margin-top: 19px;
+}
