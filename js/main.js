@@ -17,8 +17,24 @@ window.addEventListener('load', function () {
   var div4 = document.createElement("div");
   div4.classList.add("estilo-div4");
 
+  var div5 = document.createElement("div");
+  div5.classList.add("estilo-div5");
+
+  var div6 = document.createElement("div");
+  div6.classList.add("estilo-div6");
+
+  var div7 = document.createElement("div");
+  div7.classList.add("estilo-div7");
+
+  var div8 = document.createElement("div");
+  div8.classList.add("estilo-div8");
+
   div2.appendChild(div3);
   div2.appendChild(div4);
+  div2.appendChild(div5);
+  div2.appendChild(div6);
+  div4.appendChild(div7);
+  div2.appendChild(div8);
 
 
 });

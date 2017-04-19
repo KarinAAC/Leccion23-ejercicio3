@@ -23,17 +23,53 @@
 }
 
 .estilo-div3{
-  width: 5%;
-  height: 30px;
+  width: 20%;
+  height: 190px;
   border:  solid 3px white;
-
-  margin-top: 19px;
+  margin-left: -3px;
+  margin-top: 49px;
 }
 
 .estilo-div4{
-  width: 5%;
-  height: 30px;
+  width: 20%;
+  height: 190px;
   border:  solid 3px white;
-  margin-left: 737px;
-  margin-top: 19px;
+  margin-left: 622px;
+  margin-top: -189px;
+}
+
+.estilo-div5{
+  width: 12%;
+  height: 90px;
+  border:  solid 3px white;
+  border-radius: 80px;
+  margin-left: 350px;
+  margin-top: -150px;
+}
+
+.estilo-div6{
+  width: 2%;
+  height: 15px;
+  background-color: white;
+  border-radius: 80px;
+  margin-left: 150px;
+  margin-top: -150px;
+}
+
+.estilo-div7{
+  width: 9%;
+  height: 15px;
+  background-color: white;
+  border-radius: 80px;
+  margin-left: -7px;
+  margin-top: 180px;
+}
+
+.estilo-div8{
+  width: 2%;
+  height: 15px;
+  background-color: white;
+  border-radius: 80px;
+  margin-left: 380px;
+  margin-top: -15px;
 }
